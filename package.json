@@ -54,7 +54,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "graphql-type-json": "^0.2.1",
-    "object-path": "^0.11.4"
+    "object-path": "^0.11.5"
   },
   "config": {
     "commitizen": {
